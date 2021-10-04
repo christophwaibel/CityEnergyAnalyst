@@ -17,7 +17,6 @@ Follow these instructions to install the CityEnergyAnalyst (CEA) on a Mac system
 Prerequisites
 ~~~~~~~~~~~~~
 
-* Download and install `Git (64-bit) <https://git-scm.com/download/win>`__.
 * Download and install `Github Desktop (64-bit) <https://desktop.github.com/>`__.
 * Download and install `DAYSIM version >= 4.0 <https://daysim.ning.com/page/download>`__.
 * Download and install `Miniconda(64-bit) for Python 3.8 <https://conda.io/miniconda.html>`__.
